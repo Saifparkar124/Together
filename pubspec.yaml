@@ -1,0 +1,41 @@
+---
+name: together
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=2.17.6 <3.0.0'
+dependencies:
+  animated_splash_screen: ^1.3.0
+  cloud_firestore: ^4.0.2
+  firebase_storage: ^11.0.10
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.0.2
+  firebase_core: ^2.1.0
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  google_fonts: ^3.0.1
+  hexcolor: ^2.0.7
+  lottie: null
+  image_picker: ^0.8.6+1
+  cached_network_image: ^3.2.3
+  email_validator:
+  intl:
+  razorpay_flutter:
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/splash.json
+    - assets/login.json
+    - assets/forgetpassword.json
+    - assets/haserror.json
+    - assets/nointernet.json
+    - assets/verifyemail.json
+    - assets/propic.json
+    - assets/search.json
+    - assets/loadpost.json

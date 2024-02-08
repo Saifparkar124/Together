@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719275926865",
+    "project_id": "together-4edee",
+    "storage_bucket": "together-4edee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719275926865:android:e47eef7a06ed79239d9f70",
+        "android_client_info": {
+          "package_name": "com.ssc.together.together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719275926865-53tri2qip65q5otschicet6odfqf605l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChgPA_uvZenFqGhqj80_C4-TGvgr7G4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719275926865-53tri2qip65q5otschicet6odfqf605l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
